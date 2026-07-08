@@ -2,14 +2,14 @@
 # ================================================
 # For: Meta Quest Pro 256GB + Unity 2022.3 LTS
 # Purpose: Collect head tracking + eye tracking data for 360° viewport prediction
-# Compatible with: Wu_MMSys_17 dataset format + PAVER pipeline
-# Last updated: February 2026
+
+
 
 ---
 
 ## ⚠️ CRITICAL: WHY YOU MUST USE UNITY 2022.3 LTS (NOT 2021)
 
-**DROP Unity 2021 LTS immediately.** Here's why:
+
 
 | Problem with Unity 2021 LTS | Unity 2022.3 LTS Fix |
 |---|---|
